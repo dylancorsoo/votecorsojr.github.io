@@ -1,0 +1,23 @@
+.bggray{
+  background-color: rgb(33, 33, 33);
+}
+
+.white{
+  color:white;
+}
+
+.borderb{
+  border-top-style: solid;
+  border-bottom-style: solid;
+  border-left-style: hidden;
+  border-right-style: hidden;
+  border-color:blue;
+}
+
+.borderb2{
+  border-top-style: hidden;
+  border-bottom-style: solid;
+  border-left-style: hidden;
+  border-right-style: hidden;
+  border-color:blue;
+}
